@@ -1,0 +1,15 @@
+C:\Users\yegan\Downloads\ConsoleApp1123\bin\Debug\net6.0\ConsoleApp1123.exe
+C:\Users\yegan\Downloads\ConsoleApp1123\bin\Debug\net6.0\ConsoleApp1123.deps.json
+C:\Users\yegan\Downloads\ConsoleApp1123\bin\Debug\net6.0\ConsoleApp1123.runtimeconfig.json
+C:\Users\yegan\Downloads\ConsoleApp1123\bin\Debug\net6.0\ConsoleApp1123.dll
+C:\Users\yegan\Downloads\ConsoleApp1123\bin\Debug\net6.0\ConsoleApp1123.pdb
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.csproj.AssemblyReference.cache
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.AssemblyInfoInputs.cache
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.AssemblyInfo.cs
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.csproj.CoreCompileInputs.cache
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.dll
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\refint\ConsoleApp1123.dll
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.pdb
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ConsoleApp1123.genruntimeconfig.cache
+C:\Users\yegan\Downloads\ConsoleApp1123\obj\Debug\net6.0\ref\ConsoleApp1123.dll
